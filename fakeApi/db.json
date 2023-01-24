@@ -1,0 +1,46 @@
+{
+  "mahasiswa": [
+    {
+      "nip": "82837381",
+      "nama": "Radhitia Pratama Effendy",
+      "email": "radhitia43@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "id": 9
+    },
+    {
+      "nip": "17848283",
+      "nama": "Dimas Rega Adiwijaya",
+      "email": "Dimas@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "id": 10
+    },
+    {
+      "nip": "2762727272",
+      "nama": "Hanes Destia",
+      "email": "Hanes@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "id": 11
+    },
+    {
+      "nip": "716732727",
+      "nama": "Bintang Agustiano Effendy",
+      "email": "bintang9349@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "id": 12
+    },
+    {
+      "nip": "772372726",
+      "nama": "Alifianur Kazzayara",
+      "email": "AlifianurKazzayara@gmail.com",
+      "jurusan": "Teknik Informatika",
+      "id": 13
+    },
+    {
+      "nip": "91822927",
+      "nama": "Jono Kurniawan Setyanto",
+      "email": "Jonokurnia@gmail.com",
+      "jurusan": "Teknik Hukum",
+      "id": 14
+    }
+  ]
+}
